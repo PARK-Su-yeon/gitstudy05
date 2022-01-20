@@ -1,12 +1,13 @@
 
-#Github
-###github사용법
+# Github
+### github사용법
 1. 깃허브에 저장소 작성  또는 복제
 2. 파일의 작성,편집
 3. 파일의 생성,변경,삭제를 git 인덱스에 추가
 4. 변경결과를 로컬저장소에 커밋
 5. 로컬저장소를 푸쉬해 원격저장소에 반영
-###명령어
+6. 
+### 명령어
 - 사용자 정보설정
 config --global user.name " "
 config-- global user.email " "
